@@ -1,4 +1,4 @@
-"# Practica-01" 
+"# Practica-02" 
 * index.html
 Página principal con información sobre la sublimación textil, ventajas y desventajas de esta.
 
@@ -19,3 +19,11 @@ Página de información del por qué realizar la sublimación junto a información de
 * machines.html
 Página de información de maquinaria utilizada en la sublimación, qué es y cómo funciona. 
 Adicional, información de impresoras de sublimación, diferencias con otras impresoras normales o laser.
+
+* estilo.css
+
+Contiene estilos para formar la pagina en 3 columnas.
+
+* visual.css
+
+Contiene diferentes estilos para etiquetas h1, h2 ....; estilos para parrafos, imagenes, tablas, tipos de letra, color, bordes.
