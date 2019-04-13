@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+.imagenes {
+	width: "500" ;
+	height: "500"
+}
+
+
+.tablas{
+	border: medium;
+	border-style: solid;
+	border-color: black;
+	border-spacing: inherit
+}
+
+h1, h2, h3{ 
+	font-size: 40px;
+	font-family:  Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	color: darkblue
+}
+
+.videoenlace .email .telefono{
+	
+	font-size: 15px;
+	font-family:  Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	color: blue;
+	text-decoration: underline
+}
+
+ul li a{
+	text-decoration: underline;
+	color: orangered;
+	font-size: 20px
+}
+
+table tr th{
+	color: darkred;
+}
+
+p {
+	
+	text-decoration: none;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
+}
