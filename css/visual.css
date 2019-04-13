@@ -8,6 +8,10 @@
 	height: "500"
 }
 
+#cuna {
+	color: blue;
+	font-size: 25px
+}
 
 .tablas{
 	border: medium;
@@ -20,6 +24,12 @@ h1, h2, h3{
 	font-size: 40px;
 	font-family:  Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
 	color: darkblue
+}
+header img{
+	width: 100%;
+	width:1599px;
+	height:281px
+
 }
 
 .videoenlace .email .telefono{
@@ -44,4 +54,17 @@ p {
 	
 	text-decoration: none;
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
+}
+
+footer > p {
+	
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
+	
+}
+
+p#Contacto{
+	font-style: oblique italic;
+	font-weight: bold;
+	font-size: 20px;
+	color: red
 }

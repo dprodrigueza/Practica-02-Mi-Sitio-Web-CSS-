@@ -31,10 +31,12 @@ footer{
 }
 
 header img{
-	width: 100%
+	width: 100%;
+	width: 1599px;
+	height: 281px
 }
 body{
-	background-color: whitesmoke
+	background-color: antiquewhite
 }
 
 
