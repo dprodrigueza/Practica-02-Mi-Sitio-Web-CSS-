@@ -13,12 +13,12 @@
 	font-size: 25px
 }
 
-table {
-	border: medium;
+table, table th, table tr, table td{
+	border: 1px;
 	border-style: solid;
 	border-color: black;
 	border-spacing: inherit;
-	border-collapse: collapse
+	
 }
 
 h1, h2, h3{ 
@@ -47,6 +47,13 @@ header img{
 	font-size: 20px
 }
 
+.navegacion{
+	font-size: 25px;
+	text-decoration: underline;
+	color: #085C4D;
+	
+}
+
 ul li a{
 	font-size: 20px;
 	color: blue;
@@ -57,16 +64,25 @@ table tr th{
 	color: darkred;
 }
 
-.contenido p {
+p {
+	
+	text-decoration: none;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 20px
+}
+article ul li {
 	
 	text-decoration: none;
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
 	font-size: 20px
 }
 
+
+
 footer > p {
 	
-	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 16px
 	
 }
 
@@ -75,4 +91,11 @@ p#Contacto{
 	font-weight: bold;
 	font-size: 20px;
 	color: red
+}
+
+#servicios{
+	color: black;
+	font-size: 30px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-style: italic
 }

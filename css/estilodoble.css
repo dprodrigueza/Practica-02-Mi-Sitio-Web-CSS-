@@ -6,7 +6,10 @@
 	border: 1px black double;
 	width: 15%;
 	float: left;
-	background-color: black
+	background-color: black;
+	border-radius: 35px;
+	margin: 5px;
+	line-height:45px
 	
 }
 
@@ -26,8 +29,12 @@ footer{
 	border-width: thin;
 	border-color: black;
 	border-style: solid;
-	width: 100%;
-	float: left
+	width: 20%;
+	float: left;
+	border-radius: 35px;
+	margin: 15px;
+	line-height:45px;
+	padding-left: 90px
 }
 
 header img{
