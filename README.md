@@ -27,3 +27,7 @@ Contiene estilos para formar la pagina en 3 columnas.
 * visual.css
 
 Contiene diferentes estilos para etiquetas h1, h2 ....; estilos para parrafos, imagenes, tablas, tipos de letra, color, bordes.
+
+* estilodoble.css
+
+Contiene estilos para formar la pagina en 2 columnas.
