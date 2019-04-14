@@ -4,8 +4,8 @@
 
 
 .imagenes {
-	width: "200" ;
-	height: "200"
+	width: 200px ;
+	height: 200px
 }
 
 #cuna {
@@ -104,7 +104,7 @@ footer > p {
 }
 
 p#Contacto{
-	font-style: oblique italic;
+	font-style: italic;
 	font-weight: bold;
 	font-size: 20px;
 	color: red
